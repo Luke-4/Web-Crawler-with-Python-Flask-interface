@@ -1,6 +1,6 @@
 # Web-Crawler-with-Python-Flask-interface
 
-**Web-Crawler** -- Developed using python's library Beautiful soup, which parsed the HTLM content of the website and extracts the title, authors, data published, keywords and abstract of articles published by members of the Research Centre for Computational Science and Mathematical Modelling (CSM) at Coventry University. The data is stored in a pandas data frame and stored locally in csv format.
+**Web-Crawler** -- Developed using python's library Beautiful Soup, which parsed the HTLM content of the website and extracts the title, authors, data published, keywords and abstract of articles published by members of the Research Centre for Computational Science and Mathematical Modelling (CSM) at Coventry University. The data is stored in a pandas data frame and stored locally in csv format.
 
 **Reverse-index** -- The reverse index maps each unique term
 found in the documents and stores the corresponding document IDs for each term in the index.
